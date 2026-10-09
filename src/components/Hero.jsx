@@ -16,7 +16,7 @@ function Hero() {
   return (
     <section className="hero" id="home">
       <div className="hero__bg">
-        <img className="hero__bg-photo" src="/images/hero-bg.jpg" alt="" />
+        <img className="hero__bg-photo" src="/images/gallery/building-3.jpg" alt="" />
         <div className="hero__bg-overlay"></div>
       </div>
       <div className="container hero__inner">

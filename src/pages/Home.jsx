@@ -5,7 +5,8 @@ import FlatTypes from '../components/FlatTypes'
 import Shops from '../components/Shops'
 import AreaSummary from '../components/AreaSummary'
 import Committee from '../components/Committee'
-import Contact from '../components/Contact'
+import Gallery from '../components/Gallery'
+import Contact from'../components/Contact'
 import Footer from '../components/Footer'
 
 function Home() {
@@ -20,6 +21,7 @@ function Home() {
           <Shops />
           <AreaSummary />
           <Committee />
+          <Gallery />
           <Contact />
         </main>
         <Footer />

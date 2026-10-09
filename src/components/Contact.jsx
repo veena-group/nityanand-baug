@@ -23,7 +23,7 @@ function Contact() {
           viewport={viewport}
         >
           <motion.p className="eyebrow" variants={fadeUp}>
-            <span className="eyebrow__index">06</span>
+            <span className="eyebrow__index">07</span>
             <span className="eyebrow__rule"></span>
             Contact
           </motion.p>
